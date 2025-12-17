@@ -1,0 +1,137 @@
+{
+    "AF": {
+        "name": "Afghanistan",
+        "borders": [
+        "Iran",
+        "Turkmenistan",
+        "Uzbekistan",
+        "Tajikistan",
+        "China",
+        "Pakistan"
+        ]
+    },
+    "AL": {
+        "name": "Albania",
+        "borders": [
+        "Montenegro",
+        "Kosovo",
+        "North Macedonia",
+        "Greece"
+        ]
+    },
+    "DZ": {
+        "name": "Algeria",
+        "borders": [
+        "Tunisia",
+        "Libya",
+        "Niger",
+        "Mali",
+        "Mauritania",
+        "Western Sahara",
+        "Morocco"
+        ]
+    },
+    "AD": {
+        "name": "Andorra",
+        "borders": [
+        "France",
+        "Spain"
+        ]
+    },
+    "AO": {
+        "name": "Angola",
+        "borders": [
+        "Republic of the Congo",
+        "Democratic Republic of the Congo",
+        "Zambia",
+        "Namibia"
+        ]
+    },
+    "AR": {
+        "name": "Argentina",
+        "borders": [
+        "Chile",
+        "Bolivia",
+        "Paraguay",
+        "Brazil",
+        "Uruguay"
+        ]
+    },
+    "AM": {
+        "name": "Armenia",
+        "borders": [
+        "Turkey",
+        "Georgia",
+        "Azerbaijan",
+        "Iran"
+        ]
+    },
+    "AU": {
+        "name": "Australia",
+        "borders": []
+    },
+    "AT": {
+        "name": "Austria",
+        "borders": [
+        "Germany",
+        "Czech Republic",
+        "Slovakia",
+        "Hungary",
+        "Slovenia",
+        "Italy",
+        "Switzerland",
+        "Liechtenstein"
+        ]
+    },
+    "AZ": {
+        "name": "Azerbaijan",
+        "borders": [
+        "Georgia",
+        "Russia",
+        "Armenia",
+        "Iran",
+        "Turkey"
+        ]
+    },
+    "BS": {
+        "name": "Bahamas",
+        "borders": []
+    },
+    "BH": {
+        "name": "Bahrain",
+        "borders": []
+    },
+  "IN": {
+    "name": "India",
+    "borders": [
+      "Pakistan",
+      "China",
+      "Nepal",
+      "Bangladesh",
+      "Bhutan",
+      "Myanmar"
+    ]
+  },
+  "PK": {
+    "name": "Pakistan",
+    "borders": [
+      "India",
+      "Afghanistan",
+      "Iran",
+      "China"
+    ]
+  },
+  "US": {
+    "name": "United States",
+    "borders": [
+      "Canada",
+      "Mexico"
+    ]
+  },
+  "CA": {
+    "name": "Canada",
+    "borders": [
+      "United States"
+    ]
+  }
+}
