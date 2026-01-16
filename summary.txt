@@ -1,0 +1,7 @@
+Reflection on Learning:
+
+Before reading the comments chapter from Clean Code, I believed that comments were always helpful and that more comments made code easier to understand. However, this chapter changed my perspective by emphasizing that comments often exist because the code itself is not clear enough and I have noticed this in my project also. I learned that many comments become redundant, misleading, or noisy over time as the code evolves, and as the chapter also says inaccurate comments can be more harmful than having no comments at all.
+
+Through this assignment, I noticed how most comments in the given code were simply restating what the code already expressed clearly. By refactoring the code and removing unnecessary comments, I realized that well-named methods and variables communicate intent more effectively than comments.
+
+Final takeaway: Instead of relying on comments to explain logic, I will aim to improve naming, structure, and readability, using comments only when they add meaningful context that cannot be conveyed through code alone.
