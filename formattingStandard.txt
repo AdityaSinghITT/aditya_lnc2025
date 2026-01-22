@@ -1,0 +1,40 @@
+1. File and Class structure/order:
+    Package declaration
+    Imports
+    Constants
+    Instance variables
+    Constructor(s)
+    Public methods
+    Private helper methods
+
+2. Vertical Formatting Rules:
+
+    Use blank lines to separate:
+        Imports and class declaration
+        Fields and constructors
+        Methods from each other
+
+    Closely related code should be kept together.
+    High-level methods should appear before low-level methods (Newspaper Metaphor).
+    Caller methods must appear above the methods they call.
+
+3. Variable Declaration Rules
+
+    Instance variables must be declared at the top of the class.
+    Local variables must be declared at the top of their method or block.
+    Loop control variables must be declared inside loop statements.
+
+4. Horizontal Formatting Rules
+
+    Maximum line length: 120 characters.
+    Use spaces around operators.
+    Use spaces after commas in method parameters and arguments.
+    Break long statements into multiple lines for readability.
+    Avoid horizontal alignment using extra spaces.
+
+5. Indentation Rules
+
+    Use consistent indentation.
+    Always use braces {} for if, else, while, and for blocks.
+    Do not write multiple statements on a single line.
+    Avoid collapsing blocks into one-line statements.
